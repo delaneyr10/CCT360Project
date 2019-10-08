@@ -1,0 +1,244 @@
+/* CSS Document */
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #002560;
+}
+
+li a {
+    color: white;
+    padding: 14px 50px;
+	float: left;
+	text-decoration: none;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 18px;
+	line-height: 12px;
+}
+
+li a:hover {
+    background-color: #004396;
+	color: white;
+}
+
+
+#finnmike {
+	padding-bottom: 50px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+#finn {
+	height: 200px;
+	padding-right: 20px;
+}
+
+
+#milliel {
+	padding-bottom: 20px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+#millie {
+	height: 200px;
+	padding-right: 20px;
+}
+
+#gatendustin {
+	padding-bottom: 50px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+#gaten {
+	height: 200px;
+	padding-right: 20px;
+}
+
+#caleblucas {
+	padding-bottom: 50px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+#caleb {
+	height: 200px;
+	padding-right: 20px;
+}
+
+#noahwill {
+	padding-bottom: 50px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+#noah {
+	height: 200px;
+	padding-right: 20px;
+}
+
+#natalianancy {
+	padding-bottom: 50px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+#natalia {
+	height: 200px;
+	padding-right: 20px;
+}
+
+#winonajoyce {
+	padding-bottom: 50px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+#winona {
+	height: 200px;
+	padding-right: 20px;
+}
+
+.charactername {
+	font-size: 1.5em;
+	font-weight: bold;
+	text-align: center;
+}
+
+#intropara {
+	float: right;
+	margin-left: 700px;
+	margin-top: -375px;
+	margin-right: 100px;
+	margin-bottom: 50px;
+}
+
+#logo {
+	display: block;
+	margin: auto;
+}
+
+#s1 {
+	padding-right: 200px;
+	padding-left: 200px;
+}
+
+#s2 {
+	padding-right: 200px;
+	padding-left: 200px;
+}
+
+#about {
+	padding-right: 200px;
+	padding-left: 200px;
+}
+
+#references {
+	padding-left: 30px;
+	line-height: 1.5;
+	padding-top: 30px;
+}
+
+#homevideo {
+	padding-left: 30px;
+	margin-bottom: 50px;
+}
+
+#s1trailer {
+	text-align: center;
+}
+
+#s2trailer {
+	text-align: center;
+}
+
+body {
+	background-color: #e0f5fc;
+	color: black;
+	font-family: Optima, "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	line-height: 2;
+}
+
+h1 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	padding-left: 30px;
+	margin-top: -5px;
+	font-size: 40px;
+}
+
+a {
+	color: black;
+	line-height: 2.0;
+}
+
+a:hover{
+	color: #C60003;
+}
+
+strong {
+	border-bottom: 2px solid black;
+	font-size: 16px;
+}
+
+.aboutp {
+	text-indent: 20px;
+}
+
+#quote1 {
+	float: left;
+	padding-right: 800px;
+	padding-left: 30px;
+	margin-bottom: 30px;
+	margin-top: -50px;
+	text-align: justify;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	line-height: 1.5;
+}
+
+#quote2 {
+	float: left;
+	padding-right: 30px;
+	padding-left: 700px;
+	margin-bottom: 30px;
+	margin-top: -175px;
+	text-align: justify;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	line-height: 1.5;
+}
+
+footer {
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#s1foot {
+	padding-right: 200px;
+	margin-top: 50px;
+}
+
+#s1foot2 {
+	padding-left: 200px;
+	margin-top: -35px;
+}
+
+#s2foot {
+	padding-left: 200px;
+	margin-top: -35px;
+}
+
+#aboutfoot {
+	padding-right: 200px;
+	margin-top: 50px;
+}
+
+#utilitynav {
+	background-color: red;
+	font-size: 24px;
+	padding-left: 30px;
+	line-height: 1.5;
+	text-align: center;
+	font-weight: bold;
+	border-radius: 25px;
+}
